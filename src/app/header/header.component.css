@@ -8,11 +8,14 @@
 }
 .nav-item a:hover
 {
-    color:lightcoral;
-    font-size:22px;
+    color:whitesmoke;
+
 }
 button
 {
-    background-color:#3f6184;
-    border:#3f6184 ;
+    background-color:black;
+    border:white ;
+}
+.head{
+    text-align: center;
 }

@@ -1,28 +1,15 @@
-.middle
-{
-    background-color:#a8a7a7;
-    height:591px;
-}
+
 h1{
     text-align: center;
-    color:blue;
+    color:black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: inherit;
 }
 select
+{
+    border-radius: 5px;
+    width: 90%;
+    
+}
 
-{
-    background-color: black;
-    color: white;
-    border-radius: 10px;
-    height: 40px;
-}
-option
-{
-    background-color:black ;
-    color: white;
-}
-input
-{
-    border-radius: 10px;
-}
+
